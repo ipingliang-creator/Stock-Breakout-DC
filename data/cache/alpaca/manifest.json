@@ -1,11 +1,11 @@
 {
   "provider": "alpaca",
   "provider_version": "rest-v2",
-  "download_date": "2026-06-01T23:23:21+00:00",
+  "download_date": "2026-06-02T23:30:11+00:00",
   "interval": "1d",
   "symbol_count": 127,
   "universe_version": "2026.06.0",
   "start": "2018-04-25",
-  "end": "2026-06-01",
+  "end": "2026-06-02",
   "notes": ""
 }
